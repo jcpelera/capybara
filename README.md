@@ -1,3 +1,3 @@
 # capybara
 
-# Project that showcases my love of Capybaras using HTML and CSS
+# Project that showcases my love of Animals using HTML and CSS
