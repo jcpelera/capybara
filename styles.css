@@ -1,8 +1,17 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
 div {
-    background-image: url("pictures/background.jpg");
     color: blue;
 }
 
+body {
+    background-image: url("pictures/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 h1 {
-    color:aqua;
+    padding: 
 }
